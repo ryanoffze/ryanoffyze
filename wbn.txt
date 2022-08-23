@@ -1,0 +1,155 @@
+========+[ Rackspace Login ]+=========
+Email : 
+Password : 
+IP: 127.0.0.1
+HostName : Antonio-Davenci
+Date And Time : Thu Jul 28, 2022 10:59 am
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0
+========+[ Rackspace Login ]+=========
+Email : email@email.com
+Password : 11232432445
+IP: 127.0.0.1
+HostName : Antonio-Davenci
+Date And Time : Thu Jul 28, 2022 11:00 am
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0
+========+[ Rackspace Login ]+=========
+Email : mailer@mail.com
+Password : 12345678098
+IP: 127.0.0.1
+HostName : Antonio-Davenci
+Date And Time : Thu Jul 28, 2022 11:41 am
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0
+========+[ Rackspace Login ]+=========
+Email : [Email]
+Password : 1234567890
+IP: 127.0.0.1
+HostName : Antonio-Davenci
+Date And Time : Thu Jul 28, 2022 11:46 am
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0
+========+[ Rackspace Login ]+=========
+Email : [Email]
+Password : 080Valdes@
+IP: 127.0.0.1
+HostName : Antonio-Davenci
+Date And Time : Thu Jul 28, 2022 11:49 am
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0
+========+[ Office 365 Login ]+=========
+Email : royalmail@mail.com
+Password : 080Valdes@
+IP Details: 127.0.0.1 |  |  | 
+Date And Time : Thu Jul 28, 2022 5:02 pm
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0
+========+[ Office 365 Login ]+=========
+Email : email@mail.com
+Password : 098065
+IP Details: 127.0.0.1 |  |  | 
+Date And Time : Thu Aug 11, 2022 1:43 pm
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0
+========+[ Office 365 Login ]+=========
+Email : mohammed.g@abc.sa.com
+Password : 
+IP Details: 127.0.0.1 |  |  | 
+Date And Time : Fri Aug 12, 2022 9:52 am
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0
+========+[ Office 365 Login ]+=========
+Email : mohammed.g@abc.sa.com
+Password : 
+IP Details: 127.0.0.1 |  |  | 
+Date And Time : Fri Aug 12, 2022 10:04 am
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0
+========+[ Office 365 Login ]+=========
+Email : mohammed.g@abc.sa.com
+Password : 
+IP Details: 127.0.0.1 |  |  | 
+Date And Time : Fri Aug 12, 2022 10:05 am
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0
+========+[ Office 365 Login ]+=========
+Email : mohammed.g@abc.sa.com
+Password : 
+IP Details: 127.0.0.1 |  |  | 
+Date And Time : Fri Aug 12, 2022 10:05 am
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0
+========+[ Office 365 Login ]+=========
+Email : mohammed.g@abc.sa.com
+Password : 
+IP Details: 127.0.0.1 |  |  | 
+Date And Time : Fri Aug 12, 2022 10:10 am
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0
+========+[ Office 365 Login ]+=========
+Email : mohammed.g@abc.sa.com
+Password : 
+IP Details: 127.0.0.1 |  |  | 
+Date And Time : Fri Aug 12, 2022 10:11 am
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0
+========+[ Office 365 Login ]+=========
+Email : mohammed.g@abc.sa.com
+Password : 
+IP Details: 127.0.0.1 |  |  | 
+Date And Time : Fri Aug 12, 2022 10:11 am
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0
+========+[ Office 365 Login ]+=========
+Email : mohammed.g@abc.sa.com
+Password : 
+IP Details: 127.0.0.1 |  |  | 
+Date And Time : Fri Aug 12, 2022 10:12 am
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0
+========+[ Office 365 Login ]+=========
+Email : mohammed.g@abc.sa.com
+Password : 
+IP Details: 127.0.0.1 |  |  | 
+Date And Time : Fri Aug 12, 2022 10:13 am
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0
+========+[ Office 365 Login ]+=========
+Email : mohammed.g@abc.sa.com
+Password : 
+IP Details: 127.0.0.1 |  |  | 
+Date And Time : Fri Aug 12, 2022 10:14 am
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0
+========+[ Office 365 Login ]+=========
+Email : mohammed.g@abc.sa.com
+Password : 
+IP Details: 127.0.0.1 |  |  | 
+Date And Time : Fri Aug 12, 2022 10:14 am
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0
+========+[ Office 365 Login ]+=========
+Email : mohammed.g@abc.sa.com
+Password : 
+IP Details: 127.0.0.1 |  |  | 
+Date And Time : Fri Aug 12, 2022 11:26 am
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0
+========+[ Office 365 Login ]+=========
+Email : [Email]
+Password : 
+IP Details: 127.0.0.1 |  |  | 
+Date And Time : Fri Aug 12, 2022 1:07 pm
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0
+========+[ Office 365 Login ]+=========
+Email : [Email]
+Password : 
+IP Details: 127.0.0.1 |  |  | 
+Date And Time : Fri Aug 12, 2022 1:07 pm
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0
+========+[ Office 365 Login ]+=========
+Email : [Email]
+Password : 
+IP Details: 127.0.0.1 |  |  | 
+Date And Time : Fri Aug 12, 2022 1:11 pm
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0
+========+[ Office 365 Login ]+=========
+Email : [Email]
+Password : 
+IP Details: 127.0.0.1 |  |  | 
+Date And Time : Fri Aug 12, 2022 1:11 pm
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0
+========+[ Office 365 Login ]+=========
+Email : email@mail.com
+Password : -0-==-
+IP Details: 127.0.0.1 |  |  | 
+Date And Time : Tue Aug 16, 2022 8:04 pm
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0
+========+[ Office 365 Login ]+=========
+Email : royalmail@mail.com
+Password : 1234567890
+IP Details: 127.0.0.1 |  |  | 
+Date And Time : Tue Aug 23, 2022 2:19 pm
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0
